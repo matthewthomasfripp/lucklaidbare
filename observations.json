@@ -382,21 +382,21 @@
   "die_Lu": {
     "display_name": "Lu die",
     "observations": {
-      "english": "Like its sister die, it has an uncanny way with high numbers.",
-      "chineses": "就像它的姊妹骰子一样，它对高数字有一种不可思议的偏好。",
-      "chineset": "就像它的姊妹骰子一樣，它對高數字有一種不可思議的偏好。",
-      "czech": "Jako její sesterská kostka, má i ona podivuhodný způsob s vysokými čísly.",
-      "french": "Comme son dé sœur, il a une façon troublante de favoriser les nombres élevés.",
-      "german": "Wie sein Schwesterwürfel hat er eine unheimliche Art mit hohen Zahlen.",
-      "italian": "Come il suo dado gemello, ha un modo inquietante di ottenere numeri alti.",
-      "japanese": "姉妹のサイコロのように、高い数字に対して不思議な傾向がある。",
-      "korean": "자매 주사위처럼, 높은 숫자에 대한 기묘한 방식을 가지고 있어요.",
-      "polish": "Jak jej siostrzana kość, ma niesamowity sposób na wysokie liczby.",
-      "portuguese": "Como seu dado irmão, tem uma forma estranha de favorecer números altos.",
-      "russian": "Как и его сестра-кость, он имеет жуткую склонность к высоким числам.",
-      "spanish": "Como su dado hermano, tiene una forma inquietante de sacar números altos.",
-      "turkish": "Kız kardeş zarı gibi, yüksek sayılarla esrarengiz bir ilişkisi var.",
-      "ukrainian": "Як і його сестра-кістка, він має моторошну схильність до високих чисел."
+      "english": "Another die with a devil's touch - those sixes aren't natural.",
+      "chineses": "又一个带着魔鬼印记的骰子 - 这些六点看起来太不寻常了。",
+      "chineset": "又一個帶著魔鬼印記的骰子 - 這些六點看起來太不尋常了。",
+      "czech": "Další kostka s ďáblovým dotykem - ty šestky nejsou přirozené.",
+      "french": "Encore un dé touché par le diable - ces six ne sont pas naturels.",
+      "german": "Noch ein Würfel mit des Teufels Fingerabdruck - diese Sechsen sind nicht natürlich.",
+      "italian": "Un altro dado con il tocco del diavolo - quei sei non sono naturali.",
+      "japanese": "悪魔の手が触れたもう一つのさいころ - この六の目は自然なものではない。",
+      "korean": "악마의 손길이 닿은 또 하나의 주사위 - 이 육의 눈은 자연스럽지 않아.",
+      "polish": "Kolejna kość z diabelskim dotykiem - te szóstki nie są naturalne.",
+      "portuguese": "Mais um dado com o toque do diabo - esses seis não são naturais.",
+      "russian": "Ещё одна кость с дьявольским прикосновением - эти шестёрки неестественны.",
+      "spanish": "Otro dado con el toque del diablo - esos seises no son naturales.",
+      "turkish": "Şeytanın dokunuşu olan başka bir zar - bu altılar doğal değil.",
+      "ukrainian": "Ще одні кості з дияволським дотиком - ці шістки неприродні."
     }
   },
   "zachranaPtacka_die_trojak": {
