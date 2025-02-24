@@ -1,0 +1,722 @@
+{
+  "dieUnbalanced": {
+    "display_name": "Unbalanced die",
+    "observations": {
+      "english": "This die has an odd way of favoring low numbers. The work of an amateur, I'd wager.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "die_Matematikova": {
+    "display_name": "Mathematician's die",
+    "observations": {
+      "english": "It favors the middle numbers with surprising regularity. Almost like someone calculated exactly how it should fall.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "dieSkull": {
+    "display_name": "Hugo's die",
+    "observations": {
+      "english": "Hugo might be a regular at the Hole, but his die's as honest as a priest on Sunday.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "dieLucky": {
+    "display_name": "Lucky die",
+    "observations": {
+      "english": "Either I've been touched by an angel, or this die has a peculiar fondness for ones and sixes.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "die_Vozkova": {
+    "display_name": "Wagoner's die",
+    "observations": {
+      "english": "About as predictable as a miller's daily routine. Twos and threes, twos and threes...",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "zachranaPtacka_die_sad_sergeant": {
+    "display_name": "Sad Greaser's die",
+    "observations": {
+      "english": "Ones, twos, and fives keep showing up. As if the die itself can't make up its mind.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "die_Gamblerova_good": {
+    "display_name": "Cautious cheater's die",
+    "observations": {
+      "english": "Someone's done some clever work with this one. The changes are as subtle as a cutpurse in a crowd.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "die_Antiocha": {
+    "display_name": "Saint Antiochus' die",
+    "observations": {
+      "english": "This die seems possessed by the spirit of Saint Antiochus himself. Three, three, and three again!",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "dieEven": {
+    "display_name": "Even die",
+    "observations": {
+      "english": "Odd... or rather, not odd at all.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "dieTeeth_c": {
+    "display_name": "Wisdom tooth die",
+    "observations": {
+      "english": "Rolls honestly enough, though the thought of its origin makes my jaw ache.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "dieStripping": {
+    "display_name": "Strip die",
+    "observations": {
+      "english": "Favors ones and high numbers like a tavern wench favors wealthy merchants.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "dieOdd": {
+    "display_name": "Odd die",
+    "observations": {
+      "english": "As partial to odd numbers as Sir Hanush is to wine.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "dieHolyTrinity": {
+    "display_name": "Holy Trinity die",
+    "observations": {
+      "english": "Either this die is truly blessed, or someone's made a mockery of the Trinity.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "dieTeeth_b": {
+    "display_name": "Premolar die",
+    "observations": {
+      "english": "An honest die, if you can forget it once sat in someone's mouth.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "die_Kralova": {
+    "display_name": "King's die",
+    "observations": {
+      "english": "It favors middle numbers like a king favors his nobles - not too high, not too low.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "dieAdversity": {
+    "display_name": "Unlucky die",
+    "observations": {
+      "english": "Like my luck with women - tends to fall short of what you'd hope for.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "dieNormal": {
+    "display_name": "Ordinary die",
+    "observations": {
+      "english": "Plain as porridge, but just as reliable. Falls as it should.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "die_aranka": {
+    "display_name": "Aranka's die",
+    "observations": {
+      "english": "There's a pattern here, clear as day. The odd numbers keep showing up.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "die_Ci": {
+    "display_name": "Ci die",
+    "observations": {
+      "english": "Like a demon's whisper, it keeps tempting with those high rolls.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "die_Lu": {
+    "display_name": "Lu die",
+    "observations": {
+      "english": "Either this die cursed or blessed - those sixes aren't natural.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "zachranaPtacka_die_trojak": {
+    "display_name": "Three die",
+    "observations": {
+      "english": "About as subtle as a town crier - keeps shouting 'three' to anyone who'll listen.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "dieKingdomCome": {
+    "display_name": "Heavenly Kingdom die",
+    "observations": {
+      "english": "Blessed by angels, this one. Ones appear more often than priests at a wedding feast.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "zachranaPtacka_die_mud": {
+    "display_name": "Grimy die",
+    "observations": {
+      "english": "The grime might hide it, but there's no mistaking how often it lands on five.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "die_Gamblerova_bad": {
+    "display_name": "Lousy gambler's die",
+    "observations": {
+      "english": "Two twos? A drunkard’s idea of clever... and that's not the oddest thing about it.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "zachranaPtacka_die_klobas": {
+    "display_name": "Greasy die",
+    "observations": {
+      "english": "Like a well-oiled sword, it falls predictably. Those ones, threes, and sixes keep showing up.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "dieDevil": {
+    "display_name": "Devil's head die",
+    "observations": {
+      "english": "That face... it's enough to make a priest faint. Still, it tumbles honest-like.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "dieBalanced": {
+    "display_name": "Shrinking die",
+    "observations": {
+      "english": "Clever work - unless you're counting carefully, you'd never notice how often it lands on one or six.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "dieUnlucky": {
+    "display_name": "Die of misfortune",
+    "observations": {
+      "english": "If bad luck had a shape, this would be it. Can't seem to roll high or low.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "die_e": {
+    "display_name": "Fer die",
+    "observations": {
+      "english": "Like its sisters, this one has a demonic preference for sixes.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "die_sarlatan": {
+    "display_name": "St. Stephen's die",
+    "observations": {
+      "english": "If St. Stephen blessed this die, he blessed it with honesty.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "die_Kolacova": {
+    "display_name": "Pie die",
+    "observations": {
+      "english": "You'd have better luck finding a nobleman in a pigsty than rolling high with this one.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "dieFavourable": {
+    "display_name": "Favourable die",
+    "observations": {
+      "english": "As 'favorable' as a merchant's scales - those ones and fives are no accident.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "zikmunduvTabor_grozavGotchaDie": {
+    "display_name": "Grozav's lucky die",
+    "observations": {
+      "english": "Lucky? Ha! Whoever named it that must've been fond of the number two.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "dieTeeth_a": {
+    "display_name": "Molar die",
+    "observations": {
+      "english": "Whoever lost this tooth gained an honest die in return.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "prepadeni_dieBarn": {
+    "display_name": "Weighted die",
+    "observations": {
+      "english": "Like a persistent debt - that one keeps coming back.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  },
+  "dieBlue": {
+    "display_name": "Painted die",
+    "observations": {
+      "english": "Pretty colors can't hide how often it lands on five.",
+      "chinese_simplified": "",
+      "chinese_traditional": "",
+      "czech": "",
+      "french": "",
+      "german": "",
+      "italian": "",
+      "japanese": "",
+      "korean": "",
+      "polish": "",
+      "portuguese": "",
+      "russian": "",
+      "spanish": "",
+      "turkish": "",
+      "ukrainian": ""
+    }
+  }
+}
